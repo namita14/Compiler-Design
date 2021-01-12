@@ -10,13 +10,14 @@ Input 4.	Write a C program to identify whether a given line is a comment or not.
 Input 5.	Write a program to count the number of comments available in the file.
 
 
-6.	WAP to determine whether a given string belongs to the Regular Expression ab*c. 
+REabc.cpp - WAP to determine whether a given string belongs to the Regular Expression ab*c. 
 
-7.	WAP to determine whether a given string belongs to the Regular Expression b*c*.
+REbc.cpp - WAP to determine whether a given string belongs to the Regular Expression b*c*.
 
+pancard.c - Validate pancard number using regular expression
 
-Input 8.	WAP to accept all the strings, which is accepted by PDA A={anbn |n >=1}. 
+Input 9.	WAP to accept all the strings, which is accepted by PDA A={anbn |n >=1}. 
 
-Input 9.	WAP to accept all the strings, which is accepted by PDA A={wcwr | w є {a, b}}.
+Input 10.	WAP to accept all the strings, which is accepted by PDA A={wcwr | w є {a, b}}.
 
-Input 10.	WAP to accept all the strings, which is accepted by PDA A={w є {a, b} | Number of a’s and b’s are equal}.
+Input 11.	WAP to accept all the strings, which is accepted by PDA A={w є {a, b} | Number of a’s and b’s are equal}.
