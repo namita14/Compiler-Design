@@ -1,0 +1,3 @@
+// Function to calculate maximum sum
+// of the subsequence obtained
+int maximumSum(int arr[], int N)
